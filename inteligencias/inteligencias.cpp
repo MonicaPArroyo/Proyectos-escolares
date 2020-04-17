@@ -10,7 +10,7 @@ using namespace std;
 class menu_principal{
 
 protected:
- //Se heredarán solo las variables a utilizar
+ //Se heredarï¿½n solo las variables a utilizar
  int omp;
  char oh1, ohi1, ohi2, ohi3, ohi4, ohi5, ohi6, ohi7, ohi8, ohi9;
  //declarar variables para las clases hijas
@@ -196,7 +196,7 @@ void hija_1::hi1(){
 	
 	cout    <<endl << "\t\t\t ** INTELIGENCIA LOGICO-MATEMATICA ** " <<endl <<endl<<endl
 		
-			<< "" /*Información sobre esta inteligencia*/ <<endl 
+			<< "" /*Informaciï¿½n sobre esta inteligencia*/ <<endl 
 				
 				<< " \t(1) Regresa al menu anterior " <<endl <<endl
 				<< " \t(2) Realiza algun test " <<endl <<endl
@@ -233,7 +233,7 @@ void hija_1::hi2(){
 	
 	cout    <<endl << "\t\t\t ** INTELIGENCIA LING"<<char(154)<<"ISTICA ** " <<endl <<endl<<endl
 		
-			<< "" /*Información sobre esta inteligencia*/ <<endl 
+			<< "" /*Informaciï¿½n sobre esta inteligencia*/ <<endl 
 				
 				<< " \t(1) Regresa al menu anterior " <<endl <<endl
 				<< " \t(2) Realiza algun test " <<endl <<endl
@@ -270,7 +270,7 @@ void hija_1::hi3(){
 	
 	cout    <<endl << "\t\t\t ** INTELIGENCIA VISUAL-ESPACIAL ** " <<endl <<endl<<endl
 		
-			<< "" /*Información sobre esta inteligencia*/ <<endl 
+			<< "" /*Informaciï¿½n sobre esta inteligencia*/ <<endl 
 				
 				<< " \t(1) Regresa al menu anterior " <<endl <<endl
 				<< " \t(2) Realiza algun test " <<endl <<endl
@@ -308,7 +308,7 @@ void hija_1::hi4(){
 	
 	cout    <<endl << "\t\t\t ** INTELIGENCIA MUSICAL ** " <<endl <<endl<<endl
 		
-			<< "" /*Información sobre esta inteligencia*/ <<endl 
+			<< "" /*Informaciï¿½n sobre esta inteligencia*/ <<endl 
 				
 				<< " \t(1) Regresa al menu anterior " <<endl <<endl
 				<< " \t(2) Realiza algun test " <<endl <<endl
@@ -346,7 +346,7 @@ void hija_1::hi5(){
 	
 	cout    <<endl << "\t\t\t ** INTELIGENCIA KINESTESICO-CORPORAL ** " <<endl <<endl<<endl
 		
-			<< "" /*Información sobre esta inteligencia*/ <<endl 
+			<< "" /*Informaciï¿½n sobre esta inteligencia*/ <<endl 
 				
 				<< " \t(1) Regresa al menu anterior " <<endl <<endl
 				<< " \t(2) Realiza algun test " <<endl <<endl
@@ -384,7 +384,7 @@ void hija_1::hi6(){
 	
 	cout    <<endl << "\t\t\t ** INTELIGENGIA INTERPERSONAL ** " <<endl <<endl<<endl
 		
-			<< "" /*Información sobre esta inteligencia*/ <<endl 
+			<< "" /*Informaciï¿½n sobre esta inteligencia*/ <<endl 
 				
 				<< " \t(1) Regresa al menu anterior " <<endl <<endl
 				<< " \t(2) Realiza algun test " <<endl <<endl
@@ -422,7 +422,7 @@ void hija_1::hi7(){
 	
 	cout    <<endl << "\t\t\t ** INTELIGENCIA INTRAPERSONAL ** " <<endl <<endl<<endl
 		
-			<< "" /*Información sobre esta inteligencia*/ <<endl 
+			<< "" /*Informaciï¿½n sobre esta inteligencia*/ <<endl 
 				
 				<< " \t(1) Regresa al menu anterior " <<endl <<endl
 				<< " \t(2) Realiza algun test " <<endl <<endl
@@ -460,7 +460,7 @@ void hija_1::hi8(){
 	
 	cout    <<endl << "\t\t\t ** INTELIGENCIA NATURALISTA ** " <<endl <<endl<<endl
 		
-			<< "" /*Información sobre esta inteligencia*/ <<endl 
+			<< "" /*Informaciï¿½n sobre esta inteligencia*/ <<endl 
 				
 				<< " \t(1) Regresa al menu anterior " <<endl <<endl
 				<< " \t(2) Realiza algun test " <<endl <<endl
@@ -498,7 +498,7 @@ void hija_1::hi9(){
 	
 	cout    <<endl << "\t\t\t ** INTELIGENCIA ESPIRITUAL ** " <<endl <<endl<<endl
 		
-			<< "" /*Información sobre esta inteligencia*/ <<endl 
+			<< "" /*Informaciï¿½n sobre esta inteligencia*/ <<endl 
 				
 				<< " \t(1) Regresa al menu anterior " <<endl <<endl
 				<< " \t(2) Realiza algun test " <<endl <<endl

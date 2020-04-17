@@ -1,8 +1,8 @@
-#include<conio.h>
+#include<curses.h>
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
-#include <windows.h>
+/*#include <windows.h>*/
 #define TORRE_INICIAL 1
 #define TORRE_CENTRAL 2
 #define TORRE_FINAL 3
@@ -104,25 +104,6 @@ void muestra()
         
         
        printf("\nGracias por usar el programa, hasta la proxima %c",+02);
-       getch();
+       getchar();
 }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
